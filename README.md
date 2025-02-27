@@ -8,5 +8,5 @@
  - [Snap4City integration with Milestone X Protect, VMS, Video Management System](https://www.snap4city.org/drupal/node/966)
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovanni-angeli-8a389125b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-angeli-8a389125b) 
 
